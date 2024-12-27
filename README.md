@@ -1,4 +1,4 @@
-#This is a websphere instalaltion guide 📖 for centos 
+# This is a websphere instalaltion guide 📖 for centos 
 <br>
 ➡️Follow it to install websphere on your OS!
 <br>
